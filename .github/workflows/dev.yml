@@ -1,4 +1,4 @@
-name: Dev ami creation
+name: Dev ami building
 
 on:
   repository_dispatch:
