@@ -1,4 +1,4 @@
-name: Dev Image building
+name: Dev ami creation
 
 on:
   repository_dispatch:
