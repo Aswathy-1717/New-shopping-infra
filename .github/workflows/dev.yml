@@ -1,4 +1,4 @@
-name: Dev Image build
+name: Dev Image building
 
 on:
   repository_dispatch:
